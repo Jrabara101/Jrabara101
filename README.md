@@ -26,6 +26,8 @@
 
   - Python for data analytics
 
+  - PHP Laravel for backend
+
 
 - 📫 How to reach me ...
   
@@ -37,6 +39,7 @@
 
   https://www.linkedin.com/in/johnrick-rabara-b7a6a230b/
 
+![image](https://github.com/user-attachments/assets/dffe3331-14eb-4d46-bdb3-5de9d089228b)
 
 <!---
 Jrabara101/Jrabara101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
