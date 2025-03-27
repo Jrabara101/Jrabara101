@@ -30,8 +30,11 @@
 - 📫 How to reach me ...
   
   jrabara101@gmail.com 
+
   https://www.facebook.com/Jrabaraa/
+
   https://www.instagram.com/
+
   https://www.linkedin.com/in/johnrick-rabara-b7a6a230b/
 
 
