@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jrabara101 or you may call me 😎 Johnrick 😎
 
   -  Johnrick E. Rabara 😎
-  -  22 years old
+  -  23 years old
   -  Computer Engineering Student
   -  Devcon Laguna Chapter's VP for Membership
 
